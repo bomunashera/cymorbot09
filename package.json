@@ -1,0 +1,16 @@
+{
+  "name": "cymorbot09",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "whatsapp-web.js": "1.23.1",
+    "qrcode-terminal": "0.12.0"
+  }
+}
